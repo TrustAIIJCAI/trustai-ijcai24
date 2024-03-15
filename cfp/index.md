@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Call for Papers
+### Call for Papers
 
 We invite submissions that address the following and related topic areas.
 
@@ -15,11 +15,11 @@ We invite submissions that address the following and related topic areas.
 - Robustness, safety, and collective value alignment, with a specific interest in measures that support developing countries and underrepresented communities.
 - Social good, participatory AI, and applications of the above principles to different domains (e.g. healthcare, loans, legal).
 
-#### Instructions
+### Instructions
 
 TBA
 
-#### Important Dates
+### Important Dates
 
 TBA
 
