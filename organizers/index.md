@@ -5,9 +5,9 @@ layout: default
 ### Organizing Committee Members 
 
 |:-:|:-:|:-:|:-:|
-|<img align="center" width="200" src="img/celia.jpeg">|<img align="center" width="200" src="img/siobhan.jpeg">|<img align="center" width="200" src="img/john.jpeg">|<img align="center" width="200" src="img/aisha.jpeg">|
+|<img align="center" width="200" src="img/celia.jpeg">|<img align="center" width="200" src="img/siobhan.jpg">|<img align="center" width="200" src="img/john.jpeg">|<img align="center" width="200" src="img/aisha.jpeg">|
 |:-:|:-:|:-:|:-:|
-| [Celia Cintas](https://research.ibm.com/people/celia-cintas) | [Siobhan Mackenzie Hall](https://oxfordcharacter.org/student/siobhan) | [John Wamburu](https://research.ibm.com/people/john-wamburu) | [Aisha Alaagib](https://aishaalaagib.netlify.app/) |
+| [Celia Cintas](https://research.ibm.com/people/celia-cintas) | [Siobhan Mackenzie Hall](https://twitter.com/smhall97) | [John Wamburu](https://research.ibm.com/people/john-wamburu) | [Aisha Alaagib](https://aishaalaagib.netlify.app/) |
 |:-:|:-:|:-:|:-:|
 | IBM Research | University of Oxford | IBM Research | German Research Center <br/> for Artificial Intelligence |
 
