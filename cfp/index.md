@@ -17,7 +17,11 @@ We invite submissions that address the following and related topic areas.
 
 ### Instructions
 
-If you’re interested in presenting your work, please submit a 4-page paper (4 pages for content and 2 for references) following the [IJCAI Author Kit](https://www.ijcai.org/authors_kit) format. The submission site link will be posted soon. All submissions will be double-blind peer-reviewed by program committee members, with at least 2 submitted reviews per submission.
+If you’re interested in presenting your work, please submit a 4-page paper (4 pages for content and 2 for references) following the [IJCAI Author Kit](https://www.ijcai.org/authors_kit) format. All submissions will be double-blind peer-reviewed by program committee members, with at least 2 submitted reviews per submission.
+
+### Submission Link
+
+Papers should be anonymized and submitted using [CMT](https://cmt3.research.microsoft.com/TrustAIWorkshop2024).
 
 ### Important Dates
 
