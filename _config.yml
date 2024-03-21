@@ -76,8 +76,8 @@ conference:
       #   relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       # - name: Location
       #   relative_url: /location/
       - name: Editions
@@ -102,6 +102,8 @@ conference:
     # logo:
     #   img: ''
     links:
+      - name: Speakers
+        relative_url: /speakers/
       - name: CFP
         relative_url: /cfp/
       - name: Organizers
