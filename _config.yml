@@ -69,7 +69,7 @@ conference:
     breakpoint: md
     links:
       - name: Speakers
-        relative_url: /speakers/
+        relative_url: /_speakers/
       - name: CFP
         relative_url: /cfp/
       - name: Organizers
@@ -103,7 +103,7 @@ conference:
     #   img: ''
     links:
       - name: Speakers
-        relative_url: /speakers/
+        relative_url: /_speakers/
       - name: CFP
         relative_url: /cfp/
       - name: Organizers
