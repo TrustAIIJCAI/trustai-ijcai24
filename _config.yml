@@ -68,12 +68,12 @@ conference:
     #   url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
     links:
-      - name: Speakers
-        relative_url: /_speakers/
       - name: CFP
         relative_url: /cfp/
       - name: Organizers
         relative_url: /organizers/
+      - name: Speakers
+        relative_url: /speakers/
       # - name: Program
       #   relative_url: /program/
       # - name: Talks
@@ -84,8 +84,8 @@ conference:
         menu:
           - name: 2024 (current)
             disabled: true
-          # - name: 2019
-          #   relative_url: /2019/
+          - name: 2023
+            absolute_url: https://trustaideepindaba.github.io/
           # - name: 2018
           #   relative_url: /2018/
 
@@ -102,12 +102,12 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Speakers
-        relative_url: /_speakers/
       - name: CFP
         relative_url: /cfp/
       - name: Organizers
         relative_url: /organizers/
+      - name: Speakers
+        relative_url: /speakers/
       # - name: Program
       #   relative_url: /program/
       # - name: How to get there
