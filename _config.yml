@@ -74,10 +74,10 @@ conference:
         relative_url: /organizers/
       - name: Speakers
         relative_url: /speakers/
+      - name: Talks
+        relative_url: /talks/
       # - name: Program
       #   relative_url: /program/
-      # - name: Talks
-      #   relative_url: /talks/
       # - name: Location
       #   relative_url: /location/
       - name: Editions
@@ -108,6 +108,8 @@ conference:
         relative_url: /organizers/
       - name: Speakers
         relative_url: /speakers/
+      - name: Talks
+        relative_url: /talks/
       # - name: Program
       #   relative_url: /program/
       # - name: How to get there
@@ -145,13 +147,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
+      # - name: Cat A
+      #   color: info
+      - name: Keynote
         color: success
 
     # Hide icons on talk overview page
-    hide_icons: false
+    hide_icons: true
 
   speakers:
     # Show first and last name

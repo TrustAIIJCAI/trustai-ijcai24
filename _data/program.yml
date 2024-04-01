@@ -1,25 +1,25 @@
 days:
-- name: Monday
+- name: Saturday
   abbr: Mo
-  date: 2020-01-31
+  date: 2024-08-03
   rooms:
-  - name: Room A
+  - name: Main Room
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: Exploring Safety Risks in Large Language Models and Generative AI
         time_start: '12:00'
         time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
+      - name: Title TBA
         time_start: '12:45'
         time_end: '13:30'
 
-  - name: Room B
-    talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
+  # - name: Room B
+  #   talks:
+  #     - name: Arcu Non Odio
+  #       time_start: '12:00'
+  #       time_end: '13:00'
 
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+  # - name: Room C
+  #   talks:
+  #     - name: Eu Nisl Nunc Mi Ipsum Faucibus
+  #       time_start: '13:30'
+  #       time_end: '14:30'

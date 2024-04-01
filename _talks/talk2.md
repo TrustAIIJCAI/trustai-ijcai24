@@ -1,10 +1,9 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Title TBA
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Girmaw Abebe Tadesse
 categories:
-  - Cat A
+  - Keynote
   - Talk
 hide: true
 ---
