@@ -29,4 +29,4 @@ Submission deadline: April 26, 2024
 
 Paper notification: June 4, 2024
 
-*Deadlines are at 11:59 PM AOE (anywhere on earth).*
+*Deadlines are at 11:59 PM AoE (Anywhere on Earth).*
