@@ -29,7 +29,7 @@ Papers should be anonymized and submitted using [CMT](https://cmt3.research.micr
 
 ### Important Dates
 
-Submission deadline extended: May 6, 2024
+Submission deadline: ~May 6, 2024~ **extended to May 10, 2024**
 
 Paper notification: June 4, 2024
 
