@@ -1,18 +1,13 @@
 ---
-name: Arcu Non Odio
+name: Title TBA
 speakers:
-  - Alex Rosales
+  - Franziska Boenisch
 categories:
-  - Cat A
+  - Keynote
   - Talk
 links:
-  - name: Recodring
-    icon: video
-    absolute_url: https://media.ccc.de/
-  - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
+  - name: website
+    absolute_url: https://franziska-boenisch.de/
 ---
 
-Duis at tellus at urna condimentum mattis pellentesque id nibh. In fermentum et sollicitudin ac orci phasellus egestas. Convallis aenean et tortor at risus viverra. Mus mauris vitae ultricies leo integer. Metus dictum at tempor commodo ullamcorper. Sem nulla pharetra diam sit. Eu lobortis elementum nibh tellus molestie nunc.
-
-Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Tellus at urna condimentum mattis. Suspendisse sed nisi lacus sed viverra tellus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nunc eget lorem dolor sed viverra. Id volutpat lacus laoreet non curabitur.
+Franziska is a tenure-track faculty at the CISPA Helmholtz Center for Information Security where she co-leads the SprintML lab. Before, she was a Postdoctoral Fellow at the University of Toronto and Vector Institute advised by Prof. Nicolas Papernot. Her current research centers around private and trustworthy machine learning. Franziska obtained her Ph.D. at the Computer Science Department at Freie University Berlin, where she pioneered the notion of individualized privacy in machine learning. During her Ph.D., Franziska was a research associate at the Fraunhofer Institute for Applied and Integrated Security (AISEC), Germany. She received a Fraunhofer TALENTA grant for outstanding female early career researchers, the German Industrial Research Foundation prize for her research on machine learning privacy, and the Fraunhofer ICT Dissertation award 2023.
