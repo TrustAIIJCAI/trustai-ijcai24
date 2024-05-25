@@ -7,7 +7,12 @@ The Trustwory AI workshop at IJCAI 2024 on this specific theme aims to bring res
 
 <br/>
 
-*Keynote Announcement📢*
+*Keynote Announcement! 📢*
 
 **Exploring Safety Risks in Large Language Models and Generative AI** *by* [Dr. Pin-Yu Chen](speakers/pin-yu/) 
 
+*Keynote Announcement! 📢*
+
+**Trustworthy AI for Sustainability** *by* [Dr. Girmaw Abebe Tadesse](speakers/girmaw/) 
+
+<br/>

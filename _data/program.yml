@@ -1,6 +1,6 @@
 days:
 - name: Saturday
-  abbr: Mo
+  abbr: Sa
   date: 2024-08-03
   rooms:
   - name: Main Room
@@ -8,7 +8,7 @@ days:
       - name: Exploring Safety Risks in Large Language Models and Generative AI
         time_start: '12:00'
         time_end: '12:45'
-      - name: Title TBA
+      - name: Trustworthy AI for Sustainability
         time_start: '12:45'
         time_end: '13:30'
       - name: Title TBA

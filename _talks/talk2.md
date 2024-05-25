@@ -1,5 +1,5 @@
 ---
-name: Title TBA
+name: Trustworthy AI for Sustainability
 speakers:
   - Girmaw Abebe Tadesse
 categories:
@@ -7,3 +7,5 @@ categories:
   - Talk
 hide: true
 ---
+
+Abstract coming soon.
