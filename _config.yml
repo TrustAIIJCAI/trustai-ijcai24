@@ -110,8 +110,8 @@ conference:
         relative_url: /speakers/
       - name: Talks
         relative_url: /talks/
-      - name: Program
-        relative_url: /program/
+      # - name: Program
+        # relative_url: /program/
       # - name: How to get there
       #   relative_url: /location/
       # - name: Tickets
