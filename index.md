@@ -15,4 +15,8 @@ The Trustwory AI workshop at IJCAI 2024 on this specific theme aims to bring res
 
 **Trustworthy AI for Sustainability** *by* [Dr. Girmaw Abebe Tadesse](speakers/girmaw/) 
 
+*Keynote Announcement! 📢*
+
+**TBD** *by* [Dr. Franziska Boenisch](speakers/Franziska/) 
+
 <br/>
