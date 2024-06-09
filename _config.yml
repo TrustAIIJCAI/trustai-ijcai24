@@ -76,8 +76,8 @@ conference:
         relative_url: /speakers/
       - name: Talks
         relative_url: /talks/
-      - name: Program
-        relative_url: /program/
+      # - name: Program
+      #   relative_url: /program/
       - name: Accepted Papers
         relative_url: /papers/
       # - name: Location
@@ -112,8 +112,8 @@ conference:
         relative_url: /speakers/
       - name: Talks
         relative_url: /talks/
-      - name: Program
-        relative_url: /program/
+      # - name: Program
+      #   relative_url: /program/
       - name: Accepted Papers
         relative_url: /papers/
       # - name: How to get there
@@ -151,8 +151,8 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      # - name: Cat A
-      #   color: info
+      # - name: Contributed Talk
+      #   color: warning
       - name: Keynote
         color: success
 
