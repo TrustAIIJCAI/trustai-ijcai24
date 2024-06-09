@@ -22,16 +22,37 @@ days:
         time_end: '10:20'
       - name: Coffee Break
         time_start: '10:20'
-        time_end: '10:40'
+        time_end: '10:50'
+      - name: Round Table/Networking Session
+        time_start: '10:50'
+        time_end: '11:30'
+      - name: Panel Discussion
+        time_start: '11:30'
+        time_end: '12:30'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: TBD
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Poster Session
+        time_start: '14:30'
+        time_end: '15:30'
       - name: Coffee Break
-        time_start: '10:20'
-        time_end: '10:40'
-      - name: Coffee Break
-        time_start: '10:20'
-        time_end: '10:40'
-      - name: Trustworthy AI for Sustainability
-        time_start: '12:45'
-        time_end: '13:30'
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Exploring Safety Risks in Large Language Models and Generative A
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: Contributed Talk 4
+        time_start: '16:30''
+        time_end: '16:40'
+      - name: Contributed Talk 5
+        time_start: '16:40'
+        time_end: '16:50'
+      - name: Contributed Talk 6
+        time_start: '16:50'
+        time_end: '17:00'
       - name: Title TBA
         time_start: '15:45'
         time_end: '16:30'
