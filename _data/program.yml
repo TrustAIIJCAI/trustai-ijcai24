@@ -15,14 +15,14 @@ days:
         time_start: '15:45'
         time_end: '16:30'
 
-  # - name: Room B
-  #   talks:
-  #     - name: Arcu Non Odio
-  #       time_start: '12:00'
-  #       time_end: '13:00'
+  - name: Room B
+    talks:
+      - name: Arcu Non Odio
+        time_start: '12:00'
+        time_end: '13:00'
 
-  # - name: Room C
-  #   talks:
-  #     - name: Eu Nisl Nunc Mi Ipsum Faucibus
-  #       time_start: '13:30'
-  #       time_end: '14:30'
+  - name: Room C
+    talks:
+      - name: Eu Nisl Nunc Mi Ipsum Faucibus
+        time_start: '13:30'
+        time_end: '14:30'
