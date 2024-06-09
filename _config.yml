@@ -78,6 +78,8 @@ conference:
         relative_url: /talks/
       - name: Program
         relative_url: /program/
+      - name: Accepted Papers
+        relative_url: /papers/
       # - name: Location
       #   relative_url: /location/
       - name: Editions
@@ -110,8 +112,10 @@ conference:
         relative_url: /speakers/
       - name: Talks
         relative_url: /talks/
-      # - name: Program
-        # relative_url: /program/
+      - name: Program
+        relative_url: /program/
+      - name: Accepted Papers
+        relative_url: /papers/
       # - name: How to get there
       #   relative_url: /location/
       # - name: Tickets
