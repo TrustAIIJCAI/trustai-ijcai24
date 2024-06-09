@@ -1,5 +1,5 @@
 ---
-name: Title TBA
+name: Keynote 3 (Title TBA)
 speakers:
   - Franziska Boenisch
 categories:
