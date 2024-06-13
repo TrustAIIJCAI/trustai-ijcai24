@@ -44,4 +44,5 @@ layout: default
 *Errami, Latifa\*; Bergou, El houcine; KUNGURTSEV, VYACHESLAV*
 
 - First Step for Theoretical and Practical Foundations of Robust Visual Prompting\
-*Seo, Gyeongdeok; Oh, Changdae; Song, Kyungwoo\**
+*Seo, Gyeongdeok⁺; Oh, Changdae⁺; Song, Kyungwoo\**\
+*⁺equal contribution*
