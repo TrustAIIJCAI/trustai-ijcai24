@@ -32,7 +32,7 @@ days:
       - name: Lunch
         time_start: '12:30'
         time_end: '14:00'
-      - name: TBD
+      - name: Keynote 3 (Title TBA)
         time_start: '14:00'
         time_end: '14:30'
       - name: Poster Session
@@ -53,9 +53,9 @@ days:
       - name: Contributed Talk 6
         time_start: '16:50'
         time_end: '17:00'
-      - name: Keynote 3 (Title TBA)
-        time_start: '15:45'
-        time_end: '16:30'
+      # - name: Keynote 3 (Title TBA)
+      #   time_start: '15:45'
+      #   time_end: '16:30'
 
   # - name: Room B
   #   talks:

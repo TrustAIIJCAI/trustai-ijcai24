@@ -151,10 +151,12 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      # - name: Contributed Talk
-      #   color: warning
+      - name: Contributed Talk
+        color: warning
       - name: Keynote
         color: success
+      - name: Activity
+        color: info
 
     # Hide icons on talk overview page
     hide_icons: false
