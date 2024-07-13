@@ -17,6 +17,6 @@ The Trustwory AI workshop at IJCAI 2024 on this specific theme aims to bring res
 
 *Keynote Announcement! 📢*
 
-**TBD** *by* [Dr. Franziska Boenisch](speakers/Franziska/) 
+**Trustworthy Machine Learning from the Perspective of Individuals** *by* [Dr. Franziska Boenisch](speakers/Franziska/) 
 
 <br/>

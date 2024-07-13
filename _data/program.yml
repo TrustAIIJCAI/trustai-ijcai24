@@ -32,7 +32,7 @@ days:
       - name: Lunch
         time_start: '12:30'
         time_end: '14:00'
-      - name: Keynote 3 (Title TBA)
+      - name: Trustworthy Machine Learning from the Perspective of Individuals
         time_start: '14:00'
         time_end: '14:30'
       - name: Poster Session

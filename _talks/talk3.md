@@ -1,5 +1,5 @@
 ---
-name: Keynote 3 (Title TBA)
+name: Trustworthy Machine Learning from the Perspective of Individuals
 speakers:
   - Franziska Boenisch
 categories:
@@ -11,4 +11,4 @@ links:
 hide: true
 ---
 
-Franziska is a tenure-track faculty at the CISPA Helmholtz Center for Information Security where she co-leads the SprintML lab. Before, she was a Postdoctoral Fellow at the University of Toronto and Vector Institute advised by Prof. Nicolas Papernot. Her current research centers around private and trustworthy machine learning. Franziska obtained her Ph.D. at the Computer Science Department at Freie University Berlin, where she pioneered the notion of individualized privacy in machine learning. During her Ph.D., Franziska was a research associate at the Fraunhofer Institute for Applied and Integrated Security (AISEC), Germany. She received a Fraunhofer TALENTA grant for outstanding female early career researchers, the German Industrial Research Foundation prize for her research on machine learning privacy, and the Fraunhofer ICT Dissertation award 2023.
+Ensuring trustworthy machine learning (ML) is crucial as ML applications impact our daily lives in sensitive areas like healthcare, medical decision-making, and hiring. Although individuals are ultimately affected by model decisions, trustworthiness is usually viewed from the model's perspective, focusing on, e.g. “model robustness” and “privacy levels of the model”. Little thought is given to the individual level, such as considering whether the privacy level of the model actually aligns with the specific privacy desires of those whose data is used for training that model. My research challenges this approach by considering ML from the individual's perspective. This includes, among others, developing methods that ensure individual-level privacy protection of varying strengths for each data point, depending on their requirements, characterizing individual privacy risks for individuals, and evaluating the impact of individualized privacy on other trustworthiness aspects. Through this, I aim to create trustworthy ML systems from diverse individuals for diverse individuals.
