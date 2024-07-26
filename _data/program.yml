@@ -23,10 +23,10 @@ days:
       - name: Coffee Break
         time_start: '10:20'
         time_end: '10:50'
-      - name: Round Table/Networking Session
+      - name: Poster Session I
         time_start: '10:50'
         time_end: '11:30'
-      - name: Panel Discussion
+      - name: Round Table/Networking Session
         time_start: '11:30'
         time_end: '12:30'
       - name: Lunch
@@ -35,7 +35,7 @@ days:
       - name: Trustworthy Machine Learning from the Perspective of Individuals
         time_start: '14:00'
         time_end: '14:30'
-      - name: Poster Session
+      - name: Poster Session II
         time_start: '14:30'
         time_end: '15:30'
       - name: Coffee Break

@@ -1,5 +1,5 @@
 ---
-name: Poster Session
+name: Poster Session II
 speakers:
   - TBA
 categories:

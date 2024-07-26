@@ -1,5 +1,5 @@
 ---
-name: Panel Discussion
+name: Poster Session I
 speakers:
   - TBA
 categories:
