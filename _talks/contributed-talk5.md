@@ -1,5 +1,5 @@
 ---
-name: Contributed Talk 5
+name: "Contributed Talk 5: MultiFact: A Comprehensive Multimodal Fact-checking Benchmark for Misinformation Detection"
 speakers:
   - TBA
 categories:

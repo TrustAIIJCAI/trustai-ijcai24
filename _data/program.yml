@@ -11,13 +11,13 @@ days:
       - name: Exploring Safety Risks in Large Language Models and Generative AI
         time_start: '09:15'
         time_end: '09:50'
-      - name: Contributed Talk 1
+      - name: "Contributed Talk 1: First Step for Theoretical and Practical Foundations of Robust Visual Prompting"
         time_start: '09:50'
         time_end: '10:00'
-      - name: Contributed Talk 2
+      - name: "Contributed Talk 2: WWW: Where, Which and Whatever Enhancing Interpretability in Multimodal Deepfake Detection"
         time_start: '10:00'
         time_end: '10:10'
-      - name: Contributed Talk 3
+      - name: "Contributed Talk 3: Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate"
         time_start: '10:10'
         time_end: '10:20'
       - name: Coffee Break
@@ -44,13 +44,13 @@ days:
       - name: Trustworthy AI for Sustainability
         time_start: '16:00'
         time_end: '16:30'
-      - name: Contributed Talk 4
+      - name: "Contributed Talk 4: Combatting Disinformation involving AI-Generated Images through Frequency-guided Channel and Spatial Attention"
         time_start: '16:30'
         time_end: '16:40'
-      - name: Contributed Talk 5
+      - name: "Contributed Talk 5: MultiFact: A Comprehensive Multimodal Fact-checking Benchmark for Misinformation Detection"
         time_start: '16:40'
         time_end: '16:50'
-      - name: Contributed Talk 6
+      - name: "Contributed Talk 6: XAudit : A Theoretical Look at Auditing with Explanations"
         time_start: '16:50'
         time_end: '17:00'
       - name: Closing Remarks
