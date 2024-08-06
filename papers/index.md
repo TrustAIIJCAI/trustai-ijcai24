@@ -32,7 +32,8 @@ layout: default
 *Lee, Jiahe Steven; Hsu, Wynne; Lee, Mong Li\**
 
 - WWW: Where, Which and Whatever Enhancing Interpretability in Multimodal Deepfake Detection\
-*Jung, Juho\*; Lee, Sangyoun; Kang, Jooeon; Na, Yunjin*
+*Jung, Juho⁺; Lee, Sangyoun⁺; Kang, Jooeon⁺; Na, Yunjin⁺*\
+*⁺equal contribution*
 
 - XAudit : A Theoretical Look at Auditing with Explanations\
 *Yadav, Chhavi\*; Moshkovitz, Michal; Chaudhuri, Kamalika*
